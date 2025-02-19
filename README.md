@@ -16,8 +16,8 @@ I'm a passionate developer with expertise in various domains including web devel
 
 
 ## Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruva430/)
-- Check out my projects on [GitHub](https://github.com/Dhruva430)
-- Chat with me on Discord: deadshot430
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/shantanu-singh-11b097241/)
+- Check out my projects on [GitHub](https://github.com/ShantanuSingh08)
+- Chat with me on Discord: ShantanuSingh08
 
 Feel free to reach out if you're interested in collaborating or have any questions about my work!
